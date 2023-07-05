@@ -9,7 +9,7 @@ You are part of a group of six students working on a project. Each student will 
 Scenario:
 Start by cloning the repository and creating your own branch from the main branch. Name your branch "sgt-git-practice-<some_number>". Once everyone has created their branches, an issue arises. One of your colleagues did not follow the naming conventions set by the client. Switch branches with someone from the class and rename their branch accordingly - insatead of posxtfix number, add first name.
 
-Next, work on your branch! Make a copy of "install.sh" script, rename it and make commits from commit list, you can find list of chages to make in the README.md file, create commit messages accordingly. After all the commits are done, you need to reset your branch three commits back. You can use the "git log" command to check the commit history and find the appropriate commit to reset to.
+Next, work on your branch! Make a copy of "scripting.sh" script, rename it and make commits from commit list, you can find list of chages to make in the README.md file, create commit messages accordingly. After all the commits are done, you need to reset your branch three commits back. You can use the "git log" command to check the commit history and find the appropriate commit to reset to.
 
 After completing the commits and resetting, push your branch to the remote repository. Once branch is pushes, create a pull request to merge your branch into the main branch. Resolve any merge conflicts that may arise during the process.
 

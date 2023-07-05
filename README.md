@@ -8,5 +8,6 @@ This is a safe space to practice git!
 5. Send the output from line 15 to this new file.
 6. Add a command that outputs the file contect to the console
 7. Add anothre joke, to the joke list.
-
+8. Add another scripting file
+9. Make needed adjustments
 # you may test your script in the GitBash if you wish
