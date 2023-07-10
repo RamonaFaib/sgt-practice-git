@@ -15,17 +15,21 @@ random_joke=${jokes[$rand_num]}
 echo "Random Joke: $random_joke"
 
 # Change 1: Create a new variable called NAME with your first name
-my_name NAME = "Igne"
+NAME="Igne"
 
 # Change 2: Add a line to display the value of variable NAME
-echo "my name is $NAME"
+echo "My name is $NAME
+
+done"my name is $NAME"
 
 # Change 3: Add a command to list files in the current directory
-ls_files
+ls
 
 # Change 4: Add a command to create a new file
 touch new_file.txt
 
+# Change 5: Send the output from line 15 to a new file
+echo "Random Joke: $random_joke" > new_file.txt
 
 
 
