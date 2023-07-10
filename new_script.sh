@@ -13,3 +13,5 @@ random_joke=${jokes[$rand_num]}
 
 # Print the random joke
 echo "Random Joke: $random_joke"
+
+my_name NAME = "Igne"
