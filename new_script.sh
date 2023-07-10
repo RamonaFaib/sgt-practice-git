@@ -31,5 +31,7 @@ touch new_file.txt
 # Change 5: Send the output from line 15 to a new file
 echo "Random Joke: $random_joke" > new_file.txt
 
+# Change 6: Add a command to output the file content to the console
+cat new_file.txt
 
 
