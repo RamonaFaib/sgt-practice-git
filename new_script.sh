@@ -34,4 +34,8 @@ echo "Random Joke: $random_joke" > new_file.txt
 # Change 6: Add a command to output the file content to the console
 cat new_file.txt
 
+# Change 7: Add another joke to the joke list
+jokes+=("Why was the Python function so cool? Because it had its own lambda (lamb-dance) moves!")
+
+
 
