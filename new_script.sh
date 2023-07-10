@@ -23,6 +23,9 @@ echo "my name is $NAME"
 # Change 3: Add a command to list files in the current directory
 ls_files
 
+# Change 4: Add a command to create a new file
+touch new_file.txt
+
 
 
 
