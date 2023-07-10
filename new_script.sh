@@ -37,5 +37,8 @@ cat new_file.txt
 # Change 7: Add another joke to the joke list
 jokes+=("Why was the Python function so cool? Because it had its own lambda (lamb-dance) moves!")
 
+# Change 8: Add another scripting file
+touch additional_script.sh
+
 
 
