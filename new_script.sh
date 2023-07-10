@@ -35,12 +35,13 @@ echo "Random Joke: $random_joke" > new_file.txt
 cat new_file.txt
 
 # Change 7: Add another joke to the joke list
-jokes+=("Why was the Python function so cool? Because it had its own lambda (lamb-dance) moves!")
+jokes=("Why don't scientists trust atoms? Because they make up everything!"
+        "What did one wall say to the other wall? I'll meet you at the corner!"
+        "Why don't skeletons fight each other? They don't have the gutss the Python function so cool? Because it had its own lambda moves!!"
+        "Why was the Python function so cool? Because it had its own lambda moves!")
 
 # Change 8: Add another scripting file
 touch additional_script.sh
 
 
 # Change 9: Make needed adjustments
-
-
