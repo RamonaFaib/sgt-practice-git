@@ -14,4 +14,9 @@ random_joke=${jokes[$rand_num]}
 # Print the random joke
 echo "Random Joke: $random_joke"
 
+#Added a new variable called NAME with my first name
 my_name NAME = "Igne"
+
+#git commit -m "Added a line to display the value of variable NAME"
+echo $NAME
+
