@@ -41,4 +41,6 @@ jokes+=("Why was the Python function so cool? Because it had its own lambda (lam
 touch additional_script.sh
 
 
+# Change 9: Make needed adjustments
+
 
